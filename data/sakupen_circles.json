@@ -1051,6 +1051,43 @@
             "link": "https://youtu.be/tSDLZXofIcg",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "NoumnoumGD",
+            "link": "https://youtu.be/TRqYnE-c5B0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Edo",
+            "link": "https://www.youtube.com/watch?v=Aol-SLtFPfo",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "AlexDashing",
+            "link": "https://www.youtube.com/watch?v=_aNQDfKd37w&ab_channel=AlexDashing",
+            "percent": 85,
+            "hz": 360
+        },
+        {
+            "user": "Raineee",
+            "link": "https://youtu.be/kUaB02_oJs4",
+            "percent": 59,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "Crockee",
+            "link": "https://youtu.be/b89qtRj9ZAw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "CaveZ",
+            "link": "https://youtu.be/7P2QSuK5ASo",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
