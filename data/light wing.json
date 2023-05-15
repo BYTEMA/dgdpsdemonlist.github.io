@@ -3,7 +3,7 @@
     "name": "Light Wing",
     "author": "Shadow",
     "creators": [
-    "Shadow"
+    "Shadow",
     ],
     "verifier": "evil",
     "verification": "https://youtu.be/ABYWx4pN5gY",
@@ -13,7 +13,7 @@
             "user": "pewdiepiereal1",
             "link": "https://youtu.be/zgTSSFmtW-k",
             "percent": 100,
-            "hz": 240
+            "hz": 240,
         },
     ]
 }
