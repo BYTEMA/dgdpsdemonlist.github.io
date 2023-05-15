@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/ABYWx4pN5gY",
     "showcase": "",
     "percentToQualify": 53,
-    "records": []
+    "records": [
+      {
+            "user": "pewdiepiereal1",
+            "link": "https://youtu.be/zgTSSFmtW-k",
+            "percent": 100,
+            "hz": 240
+        },
+    ]
 }
