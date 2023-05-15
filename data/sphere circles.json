@@ -3,7 +3,7 @@
     "name": "Sphere Circles",
     "author": "evil",
     "creators": [
-    "YeckGrinding",
+        "YeckGrinding",
         "Super79",
         "nautsujjrgd",
         "ESYR"
@@ -35,7 +35,7 @@
             "link": "https://youtu.be/uxNKb9GKDm4"
             "percent": 100,
             "hz": 240
-        },
+        }
             
     
     ]
