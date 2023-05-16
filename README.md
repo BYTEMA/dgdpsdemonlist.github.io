@@ -1,16 +1,10 @@
-# Welcome to the maintained Geometry Dash Shitty List repo!
+# Welcome to Blade GDPS
 
 # FAQ
 
 ---
 
 ### Website FAQ
-
-Can I use the Shitty List template?
-
-- I mean, sure. just make sure you give credit somewhere and make sure you state
-  that you're not affiliated with the shitty list.
-
 The website isnt loading! What can I do?
 
 - since no webhost is perfect, downtime is expected. you can either wait til the
@@ -23,10 +17,7 @@ The website isnt loading! What can I do?
 
 How long will my record take to get accepted?
 
-- On a normal day it will take 0-48 hours for the record to be accepted,
-  sometimes up to 72 hours, which may be slightly common, and if it ever is
-  taking more than 72 hours, it will be announced that there is a backup of
-  records or some site issues
+- It takes no more than a day or 2, if it is taking longer feel free to ping a demonlist staff as likely we have forgotten about the record, we are human keep in mund.
 
 What do New record, update record, and fix record mean?
 
@@ -45,15 +36,13 @@ It's been like more than a week and my record still hasn't been added, what do i
 do?
 
 - You can ask us in
-  [#list-support](https://discord.com/channels/713151800932433972/744151240765603951)
+  [#list-support] (https://discord.com/channels/923026827281317919/1090186854269194383)
   , it was probably an accidentally deleted record(yes it happens), accidentally
   deleting the form, your name was mispelled or you were rejected for cheating
 
 When will \_\_\_ be added to the list?
 
-- With the way our current system works, the staff and relaibles play the
-  levels, if the level gets enough positive opinions from us, it then goes into
-  voting, where it is voted on if it will be added
+- Whenever we get enough opinions to place a level accurately. Normally doesn't take more than a week.
 
 Can i submit Multiple levels on 1 video?
 
@@ -69,45 +58,23 @@ Can i submit Multiple levels on 1 video?
 
 ## Owners:
 
-- Bluestone
-- Microwaveee
-- Davine_007
-
----
-
-## List Admins:
-
-- TravelChimp
-- Prometheus
-- Ryoui
-
-## Server Administrators:
-
-- Nolife
-- Ryoui
-
----
+- EvilEmperium
+- YeckGrinding
 
 ## List Helpers:
 
-- ThinCrust
-- KylashTheKiller
+- XBladeXGMD
+- ShadowAxeKid
+- cinderrblock
+- DeepStrider2
 
 ---
 
-## Server Moderators:
-
-- LBoke
-- frigusterio
-- Prometheus
-- KylashTheKiller
-- Nico721GD
-- Silv
-- Pandaaa
-
----
 
 ## Repo Maintainers:
 
 - Prometheus
 - Emonadeo
+
+
+Thanks shitty list for provind the template and raezori for helping me set this up.
